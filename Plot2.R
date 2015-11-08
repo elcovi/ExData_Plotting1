@@ -20,5 +20,3 @@ plot(dateFormat, subHouseData$Global_active_power, type="l", xlab="", ylab="Glob
 
 ## Turn off graphic device:
 dev.off()
-
-
