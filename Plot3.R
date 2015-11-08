@@ -23,6 +23,3 @@ legend("topright", c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), lty=
 
 ## Turn off graphic device:
 dev.off()
-
-
-
