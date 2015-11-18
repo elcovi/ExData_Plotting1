@@ -4,7 +4,8 @@
 library(dplyr)
 library(readr)
 
-## Get data into data frame, using Hadley Wickham "readr" package, which allows for reading ";" separted data and type assignement to the data in one step:
+## Get data into data frame, using Hadley Wickham "readr" package, which allows for reading ";" 
+## separted data and type assignement to the data in one step:
 
 houseData <- read_csv2("household_power_consumption.txt", 
                        col_names =  TRUE, 
